@@ -1,0 +1,10 @@
+{
+  "name": "speed-strike",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Speed Strike oyunu ve oda sunucusu",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
